@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Negocio\\C_Negocio.csproj": {}
+    "D:\\DB\\IngSoftware\\C_Negocio\\C_Negocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Datos\\C_Datos.csproj": {
+    "D:\\DB\\IngSoftware\\C_Datos\\C_Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Datos\\C_Datos.csproj",
+        "projectUniqueName": "D:\\DB\\IngSoftware\\C_Datos\\C_Datos.csproj",
         "projectName": "C_Datos",
-        "projectPath": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Datos\\C_Datos.csproj",
-        "packagesPath": "C:\\Users\\ESTUDIANTE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Datos\\obj\\",
+        "projectPath": "D:\\DB\\IngSoftware\\C_Datos\\C_Datos.csproj",
+        "packagesPath": "C:\\Users\\monte\\.nuget\\packages\\",
+        "outputPath": "D:\\DB\\IngSoftware\\C_Datos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ESTUDIANTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\monte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -28,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Entidad\\C_Entidad.csproj": {
-                "projectPath": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Entidad\\C_Entidad.csproj"
+              "D:\\DB\\IngSoftware\\C_Entidad\\C_Entidad.csproj": {
+                "projectPath": "D:\\DB\\IngSoftware\\C_Entidad\\C_Entidad.csproj"
               }
             }
           }
@@ -58,22 +62,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Entidad\\C_Entidad.csproj": {
+    "D:\\DB\\IngSoftware\\C_Entidad\\C_Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Entidad\\C_Entidad.csproj",
+        "projectUniqueName": "D:\\DB\\IngSoftware\\C_Entidad\\C_Entidad.csproj",
         "projectName": "C_Entidad",
-        "projectPath": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Entidad\\C_Entidad.csproj",
-        "packagesPath": "C:\\Users\\ESTUDIANTE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Entidad\\obj\\",
+        "projectPath": "D:\\DB\\IngSoftware\\C_Entidad\\C_Entidad.csproj",
+        "packagesPath": "C:\\Users\\monte\\.nuget\\packages\\",
+        "outputPath": "D:\\DB\\IngSoftware\\C_Entidad\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ESTUDIANTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\monte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -112,22 +120,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Negocio\\C_Negocio.csproj": {
+    "D:\\DB\\IngSoftware\\C_Negocio\\C_Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Negocio\\C_Negocio.csproj",
+        "projectUniqueName": "D:\\DB\\IngSoftware\\C_Negocio\\C_Negocio.csproj",
         "projectName": "C_Negocio",
-        "projectPath": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Negocio\\C_Negocio.csproj",
-        "packagesPath": "C:\\Users\\ESTUDIANTE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Negocio\\obj\\",
+        "projectPath": "D:\\DB\\IngSoftware\\C_Negocio\\C_Negocio.csproj",
+        "packagesPath": "C:\\Users\\monte\\.nuget\\packages\\",
+        "outputPath": "D:\\DB\\IngSoftware\\C_Negocio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ESTUDIANTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\monte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -140,11 +152,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Datos\\C_Datos.csproj": {
-                "projectPath": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Datos\\C_Datos.csproj"
+              "D:\\DB\\IngSoftware\\C_Datos\\C_Datos.csproj": {
+                "projectPath": "D:\\DB\\IngSoftware\\C_Datos\\C_Datos.csproj"
               },
-              "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Entidad\\C_Entidad.csproj": {
-                "projectPath": "C:\\Users\\ESTUDIANTE\\Desktop\\ok\\Ingenieria de software\\Nomina\\C_Entidad\\C_Entidad.csproj"
+              "D:\\DB\\IngSoftware\\C_Entidad\\C_Entidad.csproj": {
+                "projectPath": "D:\\DB\\IngSoftware\\C_Entidad\\C_Entidad.csproj"
               }
             }
           }
@@ -173,7 +185,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

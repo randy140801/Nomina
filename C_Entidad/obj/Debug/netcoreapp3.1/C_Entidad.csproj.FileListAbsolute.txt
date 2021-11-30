@@ -8,3 +8,12 @@ C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Entidad\obj\Debug
 C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Entidad\obj\Debug\netcoreapp3.1\C_Entidad.csproj.CoreCompileInputs.cache
 C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Entidad\obj\Debug\netcoreapp3.1\C_Entidad.dll
 C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Entidad\obj\Debug\netcoreapp3.1\C_Entidad.pdb
+D:\DB\IngSoftware\C_Entidad\bin\Debug\netcoreapp3.1\C_Entidad.deps.json
+D:\DB\IngSoftware\C_Entidad\bin\Debug\netcoreapp3.1\C_Entidad.dll
+D:\DB\IngSoftware\C_Entidad\bin\Debug\netcoreapp3.1\C_Entidad.pdb
+D:\DB\IngSoftware\C_Entidad\obj\Debug\netcoreapp3.1\C_Entidad.csproj.AssemblyReference.cache
+D:\DB\IngSoftware\C_Entidad\obj\Debug\netcoreapp3.1\C_Entidad.AssemblyInfoInputs.cache
+D:\DB\IngSoftware\C_Entidad\obj\Debug\netcoreapp3.1\C_Entidad.AssemblyInfo.cs
+D:\DB\IngSoftware\C_Entidad\obj\Debug\netcoreapp3.1\C_Entidad.csproj.CoreCompileInputs.cache
+D:\DB\IngSoftware\C_Entidad\obj\Debug\netcoreapp3.1\C_Entidad.dll
+D:\DB\IngSoftware\C_Entidad\obj\Debug\netcoreapp3.1\C_Entidad.pdb

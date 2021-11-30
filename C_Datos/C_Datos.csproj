@@ -8,4 +8,8 @@
     <ProjectReference Include="..\C_Entidad\C_Entidad.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+
 </Project>

@@ -13,3 +13,17 @@ C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Negocio\obj\Debug
 C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.csproj.CopyComplete
 C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.dll
 C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.pdb
+D:\DB\IngSoftware\C_Negocio\bin\Debug\netcoreapp3.1\C_Negocio.deps.json
+D:\DB\IngSoftware\C_Negocio\bin\Debug\netcoreapp3.1\C_Negocio.dll
+D:\DB\IngSoftware\C_Negocio\bin\Debug\netcoreapp3.1\C_Negocio.pdb
+D:\DB\IngSoftware\C_Negocio\bin\Debug\netcoreapp3.1\C_Datos.dll
+D:\DB\IngSoftware\C_Negocio\bin\Debug\netcoreapp3.1\C_Entidad.dll
+D:\DB\IngSoftware\C_Negocio\bin\Debug\netcoreapp3.1\C_Datos.pdb
+D:\DB\IngSoftware\C_Negocio\bin\Debug\netcoreapp3.1\C_Entidad.pdb
+D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.csproj.AssemblyReference.cache
+D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.AssemblyInfoInputs.cache
+D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.AssemblyInfo.cs
+D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.csproj.CoreCompileInputs.cache
+D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.csproj.CopyComplete
+D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.dll
+D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.pdb

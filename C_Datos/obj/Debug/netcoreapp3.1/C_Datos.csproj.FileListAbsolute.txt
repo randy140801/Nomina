@@ -11,3 +11,15 @@ C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\n
 C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.csproj.CopyComplete
 C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.dll
 C:\Users\ESTUDIANTE\Desktop\ok\Ingenieria de software\Nomina\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.pdb
+D:\DB\IngSoftware\C_Datos\bin\Debug\netcoreapp3.1\C_Datos.deps.json
+D:\DB\IngSoftware\C_Datos\bin\Debug\netcoreapp3.1\C_Datos.dll
+D:\DB\IngSoftware\C_Datos\bin\Debug\netcoreapp3.1\C_Datos.pdb
+D:\DB\IngSoftware\C_Datos\bin\Debug\netcoreapp3.1\C_Entidad.dll
+D:\DB\IngSoftware\C_Datos\bin\Debug\netcoreapp3.1\C_Entidad.pdb
+D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.csproj.AssemblyReference.cache
+D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.AssemblyInfoInputs.cache
+D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.AssemblyInfo.cs
+D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.csproj.CoreCompileInputs.cache
+D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.csproj.CopyComplete
+D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.dll
+D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.pdb
