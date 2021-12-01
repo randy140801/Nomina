@@ -23,3 +23,6 @@ D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.csproj.CoreCompileInpu
 D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.csproj.CopyComplete
 D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.dll
 D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.pdb
+D:\DB\IngSoftware\C_Datos\bin\Debug\netcoreapp3.1\C_Datos.runtimeconfig.json
+D:\DB\IngSoftware\C_Datos\bin\Debug\netcoreapp3.1\C_Datos.runtimeconfig.dev.json
+D:\DB\IngSoftware\C_Datos\obj\Debug\netcoreapp3.1\C_Datos.genruntimeconfig.cache

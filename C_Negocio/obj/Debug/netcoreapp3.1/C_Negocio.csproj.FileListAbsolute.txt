@@ -27,3 +27,6 @@ D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.csproj.CoreCompile
 D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.csproj.CopyComplete
 D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.dll
 D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.pdb
+D:\DB\IngSoftware\C_Negocio\bin\Debug\netcoreapp3.1\C_Negocio.runtimeconfig.json
+D:\DB\IngSoftware\C_Negocio\bin\Debug\netcoreapp3.1\C_Negocio.runtimeconfig.dev.json
+D:\DB\IngSoftware\C_Negocio\obj\Debug\netcoreapp3.1\C_Negocio.genruntimeconfig.cache
