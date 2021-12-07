@@ -173,8 +173,5 @@ $value2 = mysqli_fetch_assoc($connect->query($sql2));
       ?>
   </table>
   </div>
-
-
 </body>
-
 </html>

@@ -62,7 +62,7 @@ function edit($id){
             redirect('empleados.php');
         }
         else {
-            echo'ERRRRRRRROR'.$connect->error;
+            echo'ERROR'.$connect->error;
         }
     }
 }
@@ -146,7 +146,7 @@ function Nominaedit($id)
             redirect('empleados.php');
         }
         else {
-            echo'ERRRRRRRROR'.$connect->error;
+            echo'ERROR'.$connect->error;
         }
 }
 

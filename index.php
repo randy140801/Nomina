@@ -39,12 +39,12 @@ if(isset($_COOKIE["ID"])){
 		<div class="overlay">
 			<div class="overlay-panel overlay-left">
 				<h1>¿Eres empleado?</h1>
-				<p>Si eres empleado, inicia sesion aqui con tus datos personales.</p>
+				<p>Si eres empleado, inicia sesion aqui con tu cedula de identidad.</p>
 				<button class="ghost" id="signIn">Inicia sesion</button>
 			</div>
 			<div class="overlay-panel overlay-right">
-				<h1>¿Eres admin?</h1>
-				<p>Si eres admin, inicia sesion aqui con tus datos personales.</p>
+				<h1>¿Eres Admin?</h1>
+				<p>Si eres Admin, inicia sesion aqui con tus datos personales.</p>
 				<button class="ghost" id="signUp">Inicia sesion</button>
 			</div>
 		</div>
