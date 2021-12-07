@@ -106,7 +106,7 @@ if (isset($_GET['ID'])) {
       <div class="row">
           <div class="center">
             <button class="btn waves-effect waves-light reset" type="reset" name="action" style="margin-right: 5px;">Limpiar</button>
-            
+            <button class="btn waves-effect waves-light save" type="submit" name="action">Guardar</button>
             </div>
       </div>
     </form>
