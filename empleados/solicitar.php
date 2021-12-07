@@ -44,8 +44,6 @@ $char = mysqli_fetch_assoc($data);
         
   <div class="row">
     <form class="col s12" action="evaluateVac.php?ID='.$char['ID'].'" method="POST" enctype="multipart/form-data">
-    <input hidden type="text" name="ID" value="<?php echo $char["Id"];?>">
-    <input hidden type="text" name="Dias_Vacaciones" value="14">
     <div class="row">
         <div class="center">
             <h4>Dias de vacaciones restantes: <?php echo $char['Dias_Vacaciones']?></h4>
