@@ -85,6 +85,12 @@ function delete($id){
     }
 }
 
+function AFP($sueldo)
+{
+    $AFP = $sueldo * 0.0287;
+    return $AFP;
+}
+
 function ARS($sueldo)
 {
     $AFP = $sueldo * 0.0304;
