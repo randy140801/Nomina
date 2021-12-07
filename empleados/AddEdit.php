@@ -84,10 +84,7 @@ if (isset($_GET['ID'])) {
               <input name="Direccion" id="Direccion" type="text" class="validate" value="<?php echo $char["Direccion"];?>">
               <label for="Direccion">Direccion</label>
             </div>
-            <div class="input-field col s6">
-              <input name="Sueldo" id="Sueldo" type="text" class="validate" value="<?php echo $char["Sueldo"];?>">
-              <label for="Sueldo">Sueldo</label>
-            </div>
+
         </div>
       <div class="row">
             <div class="input-field col s4">
